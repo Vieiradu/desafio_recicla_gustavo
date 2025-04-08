@@ -7,11 +7,11 @@ Este projeto foi feito para resolver um desafio simples: encontrar o maior núme
 
 - Recebe uma lista de números.
 - Compara os números e guarda o maior encontrado.
-- Mostra o resultado na tela com uma mensagem amigável.
+- Mostra o resultado na tela.
 
 ---
 
-## Explicando o código de forma simples
+## Explicando como pensei no código
  -Criei dois prints iniciais para informar o que o programa faz utilizando \n para quebrar a linha pra deixar bonitinho! =) 
 numeros = [1, 10, 50, 67, 100, 3, -5, 8, 11, 55, 0]
 #Criei uma lista com os números informados.
