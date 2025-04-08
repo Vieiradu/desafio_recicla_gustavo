@@ -1,6 +1,6 @@
 # Desafio - Encontrar o Maior Número em uma Lista
 
-Este projeto foi feito para resolver um desafio simples: encontrar o maior número dentro de uma lista.
+Este projeto foi feito encontrar o maior número dentro de uma lista.
 
 
 # O que o código faz
