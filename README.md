@@ -17,12 +17,12 @@ numeros = [1, 10, 50, 67, 100, 3, -5, 8, 11, 55, 0]
 #Criei uma lista com os números informados.
 
 
-def pega_maior(lista):
-#Aqui criei uma função chamada “seleciona_maior” que recebe uma lista como entrada.
+def seleciona_maior(lista):
+#Aqui criei uma função chamada “seleciona_maior”.
 
 
     maior = lista[0]
-#Começo assumindo que o primeiro número é o maior, só pra ter uma base de comparação.
+#Começo assumindo que o primeiro número é o maior, pensei como eu faria, olharia numero por numero a partir do primeiro.
 
 
     for n in lista:
@@ -38,4 +38,4 @@ def pega_maior(lista):
 res = seleciona_maior(numeros)
 print(f"maior número encontrado: {res}") 
 
-#Aqui eu chamo a função com minha lista e mostro o resultado usando f-string, que é uma forma que ensinam muito na FIAP (rsrs) e limpa de mostrar mensagens com variáveis, confesso que sofri um pouco aqui nesse final mas a cabeça e os pdfs das aulas ajudaram kkk.
+#Aqui eu chamo a função com minha lista e mostro o resultado usando f-string, que é uma forma que ensinam muito na FIAP (rsrs) e limpa de mostrar mensagens com variáveis, confesso que fervi um pouco aqui nesse final mas a cabeça e os pdfs das aulas ajudaram kkk.
